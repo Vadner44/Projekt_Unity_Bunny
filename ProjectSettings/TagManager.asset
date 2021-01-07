@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gracz
+  - Przeszkody
+  - Tlo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Default
+    uniqueID: 3363470833
+    locked: 0
+  - name: Tlo
+    uniqueID: 1985630415
+    locked: 0
+  - name: Przeszkody
+    uniqueID: 1336222615
+    locked: 0
+  - name: Platformy
+    uniqueID: 1509388065
+    locked: 0
+  - name: UI
+    uniqueID: 1139879755
+    locked: 0
